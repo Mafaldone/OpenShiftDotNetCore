@@ -1,0 +1,10 @@
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\bin\Debug\netcoreapp1.1\OpenShiftDotNetCore.deps.json
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\bin\Debug\netcoreapp1.1\OpenShiftDotNetCore.runtimeconfig.json
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\bin\Debug\netcoreapp1.1\OpenShiftDotNetCore.runtimeconfig.dev.json
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\bin\Debug\netcoreapp1.1\OpenShiftDotNetCore.dll
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\bin\Debug\netcoreapp1.1\OpenShiftDotNetCore.pdb
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\obj\Debug\netcoreapp1.1\OpenShiftDotNetCore.csprojResolveAssemblyReference.cache
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\obj\Debug\netcoreapp1.1\OpenShiftDotNetCore.csproj.CoreCompileInputs.cache
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\obj\Debug\netcoreapp1.1\OpenShiftDotNetCore.AssemblyInfo.cs
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\obj\Debug\netcoreapp1.1\OpenShiftDotNetCore.dll
+C:\MyREPO\OpenShiftDotNetCore\OpenShiftDotNetCore\obj\Debug\netcoreapp1.1\OpenShiftDotNetCore.pdb
